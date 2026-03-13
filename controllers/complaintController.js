@@ -16,7 +16,7 @@ const {
 const getPrediction = (description) => {
   return new Promise((resolve) => {
 
-    exec(`python ml/predict.py "${description}"`, (error, stdout) => {
+    exec(`python3 ml/predict.py "${description}"`, (error, stdout) => {
 
       if (error) {
         console.log("ML error:", error.message);
@@ -46,7 +46,7 @@ const getPrediction = (description) => {
 const getAudioText = (audioPath) => {
   return new Promise((resolve) => {
 
-    exec(`python ml/audio_to_text.py "${audioPath}"`, (error, stdout) => {
+    exec(`python3 ml/audio_to_text.py "${audioPath}"`, (error, stdout) => {
 
       if (error) {
         console.log("Audio AI error:", error.message);
@@ -68,7 +68,7 @@ const getAudioText = (audioPath) => {
 const getImageLabel = (imagePath) => {
   return new Promise((resolve) => {
 
-    exec(`python ml/image_predict.py "${imagePath}"`, (error, stdout) => {
+    exec(`python3 ml/image_predict.py "${imagePath}"`, (error, stdout) => {
 
       if (error) {
         console.log("Image AI error:", error.message);
