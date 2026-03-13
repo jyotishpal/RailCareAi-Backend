@@ -8,7 +8,13 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+ origin: [
+  "http://localhost:5173",
+  "https://railcare-ai-frontend.vercel.app"
+ ]
+}));
+
 app.use(express.json());
 
 app.use("/api/auth", require("./routes/authRoutes"));
@@ -19,7 +25,7 @@ app.use("/api/superadmin", require("./routes/superAdminRoutes"));
 
 
 app.get("/", (req, res) => {
-  res.send("RailSeva API Running");
+  res.send("RailCareAI API Running");
 });
 
 const PORT = process.env.PORT || 5000;
