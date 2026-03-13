@@ -17,6 +17,10 @@ const complaintSchema = new mongoose.Schema(
     region: String,
     department: String,
     priority: String,
+    confidence: {
+  type: Number,
+  default: 0
+},
     pnr: String,
     trainNo: String,
     coach: String,

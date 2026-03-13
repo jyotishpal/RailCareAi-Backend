@@ -1,0 +1,7 @@
+joblib
+scikit-learn
+numpy
+pillow
+transformers
+openai-whisper
+torch

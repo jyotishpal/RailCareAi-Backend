@@ -40,5 +40,22 @@ const detectRegion = (pnr) => {
 
   return regionMap[prefix] || "General Region";
 };
+const detectEmergencyKeywords = (text) => {
 
-module.exports = { detectDepartment, detectPriority, detectRegion };
+  const emergencyWords = [
+    "fire",
+    "medical emergency",
+    "unconscious",
+    "heart attack",
+    "passenger fainted",
+    "train accident",
+    "blood",
+    "serious injury"
+  ];
+
+  const lowerText = text.toLowerCase();
+
+  return emergencyWords.some(word => lowerText.includes(word));
+
+};
+module.exports = {detectEmergencyKeywords, detectDepartment, detectPriority, detectRegion };

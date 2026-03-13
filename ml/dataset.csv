@@ -1,0 +1,391 @@
+description,department,priority
+garbage in train coach,cleaning,normal
+washroom door broken,cleaning,normal
+toilet seat broken,cleaning,normal
+coach very dirty,cleaning,normal
+garbage near train door,cleaning,normal
+toilet seat broken,cleaning,normal
+toilet seat broken,cleaning,normal
+coach floor very dirty,cleaning,normal
+garbage near train door,cleaning,normal
+cleaning staff not available,cleaning,normal
+washroom leaking water,cleaning,normal
+toilet seat broken,cleaning,normal
+cleaning staff not available,cleaning,normal
+cleaning staff not available,cleaning,normal
+dirty washroom in coach,cleaning,normal
+washroom smell very bad,cleaning,normal
+coach floor very dirty,cleaning,normal
+no water in washroom,cleaning,normal
+toilet not cleaned properly,cleaning,normal
+dust everywhere in coach,cleaning,normal
+coach floor very dirty,cleaning,normal
+coach very dirty,cleaning,normal
+toilet seat broken,cleaning,normal
+garbage near train door,cleaning,normal
+washroom door broken,cleaning,normal
+washroom full of garbage,cleaning,normal
+coach very dirty,cleaning,normal
+coach floor very dirty,cleaning,normal
+garbage near train door,cleaning,normal
+cleaning staff not available,cleaning,normal
+washroom smell very bad,cleaning,normal
+coach floor very dirty,cleaning,normal
+toilet seat broken,cleaning,normal
+washroom full of garbage,cleaning,normal
+toilet seat broken,cleaning,normal
+coach very dirty,cleaning,normal
+cleaning staff not available,cleaning,normal
+toilet not cleaned properly,cleaning,normal
+washroom smell very bad,cleaning,normal
+washroom leaking water,cleaning,normal
+coach very dirty,cleaning,normal
+coach very dirty,cleaning,normal
+garbage near train door,cleaning,normal
+washroom leaking water,cleaning,normal
+cleaning staff not available,cleaning,normal
+washroom leaking water,cleaning,normal
+garbage in train coach,cleaning,normal
+cleaning staff not available,cleaning,normal
+washroom leaking water,cleaning,normal
+garbage near train door,cleaning,normal
+garbage in train coach,cleaning,normal
+dirty washroom in coach,cleaning,normal
+dirty washroom in coach,cleaning,normal
+toilet blocked in train,cleaning,normal
+washroom leaking water,cleaning,normal
+toilet blocked in train,cleaning,normal
+toilet not cleaned properly,cleaning,normal
+cleaning staff not available,cleaning,normal
+toilet blocked in train,cleaning,normal
+coach very dirty,cleaning,normal
+washroom door broken,cleaning,normal
+washroom full of garbage,cleaning,normal
+dirty washroom in coach,cleaning,normal
+coach very dirty,cleaning,normal
+coach floor very dirty,cleaning,normal
+food served cold,catering,medium
+food quality very bad,catering,medium
+vendor overcharging passengers,catering,medium
+food delivered very late,catering,medium
+vendor overcharging passengers,catering,medium
+pantry staff behaviour bad,catering,medium
+food not cooked properly,catering,medium
+food served cold,catering,medium
+pantry staff behaviour bad,catering,medium
+food packet missing items,catering,medium
+food delivered very late,catering,medium
+pantry staff behaviour bad,catering,medium
+vendor overcharging passengers,catering,medium
+pantry service very slow,catering,medium
+food very oily,catering,medium
+vendor overcharging passengers,catering,medium
+pantry service very slow,catering,medium
+food very oily,catering,medium
+expired food in pantry,catering,medium
+vendor overcharging passengers,catering,medium
+expired food in pantry,catering,medium
+pantry staff behaviour bad,catering,medium
+food not cooked properly,catering,medium
+food smell very bad,catering,medium
+food hygiene issue,catering,medium
+food smell very bad,catering,medium
+food quantity very less,catering,medium
+food delivered very late,catering,medium
+pantry staff behaviour bad,catering,medium
+food hygiene issue,catering,medium
+tea very cold,catering,medium
+pantry service very slow,catering,medium
+expired food in pantry,catering,medium
+food hygiene issue,catering,medium
+food hygiene issue,catering,medium
+expired food in pantry,catering,medium
+pantry staff behaviour bad,catering,medium
+food packet missing items,catering,medium
+pantry service very slow,catering,medium
+pantry service very slow,catering,medium
+expired food in pantry,catering,medium
+food hygiene issue,catering,medium
+pantry service very slow,catering,medium
+food quality very bad,catering,medium
+food quantity very less,catering,medium
+food delivered very late,catering,medium
+pantry service very slow,catering,medium
+food served cold,catering,medium
+vendor overcharging passengers,catering,medium
+food delivered very late,catering,medium
+food not cooked properly,catering,medium
+food very oily,catering,medium
+vendor overcharging passengers,catering,medium
+tea very cold,catering,medium
+food very oily,catering,medium
+food quantity very less,catering,medium
+food not cooked properly,catering,medium
+food quality very bad,catering,medium
+food quality very bad,catering,medium
+food very oily,catering,medium
+pantry staff behaviour bad,catering,medium
+food delivered very late,catering,medium
+food not cooked properly,catering,medium
+pantry staff behaviour bad,catering,medium
+vendor overcharging passengers,catering,medium
+electrical burning smell,electrical,medium
+switch broken,electrical,medium
+coach light blinking,electrical,medium
+fan not working in compartment,electrical,medium
+fan making noise,electrical,medium
+no electricity in coach,electrical,medium
+fan not working in compartment,electrical,medium
+charging socket broken,electrical,medium
+electrical burning smell,electrical,medium
+no electricity in coach,electrical,medium
+fan speed very slow,electrical,medium
+power supply issue,electrical,medium
+coach light blinking,electrical,medium
+light flickering in coach,electrical,medium
+light not working in coach,electrical,medium
+fan not working in compartment,electrical,medium
+switchboard damaged,electrical,medium
+fan speed very slow,electrical,medium
+power supply issue,electrical,medium
+electrical burning smell,electrical,medium
+coach lights completely off,electrical,medium
+charging socket broken,electrical,medium
+electrical burning smell,electrical,medium
+electric spark near switch,electrical,medium
+fan speed very slow,electrical,medium
+fan making noise,electrical,medium
+coach lights completely off,electrical,medium
+power supply issue,electrical,medium
+fan not working in compartment,electrical,medium
+no electricity in coach,electrical,medium
+fan making noise,electrical,medium
+fan speed very slow,electrical,medium
+coach lights completely off,electrical,medium
+fan speed very slow,electrical,medium
+fan speed very slow,electrical,medium
+fan speed very slow,electrical,medium
+coach lights completely off,electrical,medium
+switch broken,electrical,medium
+electric spark near switch,electrical,medium
+no electricity in coach,electrical,medium
+power supply issue,electrical,medium
+fan not working in compartment,electrical,medium
+switchboard damaged,electrical,medium
+no electricity in coach,electrical,medium
+fan speed very slow,electrical,medium
+no electricity in coach,electrical,medium
+fan making noise,electrical,medium
+coach lights completely off,electrical,medium
+no electricity in coach,electrical,medium
+switchboard damaged,electrical,medium
+switchboard damaged,electrical,medium
+electric spark near switch,electrical,medium
+coach lights completely off,electrical,medium
+fan speed very slow,electrical,medium
+electric spark near switch,electrical,medium
+light flickering in coach,electrical,medium
+no electricity in coach,electrical,medium
+electric spark near switch,electrical,medium
+coach lights completely off,electrical,medium
+electrical burning smell,electrical,medium
+electric spark near switch,electrical,medium
+switchboard damaged,electrical,medium
+charging point not working,electrical,medium
+charging point not working,electrical,medium
+no electricity in coach,electrical,medium
+passenger collapsed suddenly,medical,emergency
+need first aid immediately,medical,emergency
+need first aid immediately,medical,emergency
+passenger having breathing problem,medical,emergency
+medical emergency passenger injured,medical,emergency
+passenger collapsed suddenly,medical,emergency
+passenger bleeding heavily,medical,emergency
+old passenger feeling sick,medical,emergency
+passenger vomiting continuously,medical,emergency
+elderly passenger critical,medical,emergency
+child injured in train,medical,emergency
+pregnant woman needs help,medical,emergency
+passenger having chest pain,medical,emergency
+passenger having chest pain,medical,emergency
+passenger fainted need doctor,medical,emergency
+passenger unconscious in train,medical,emergency
+elderly passenger critical,medical,emergency
+passenger collapsed suddenly,medical,emergency
+medical emergency passenger injured,medical,emergency
+medical emergency passenger injured,medical,emergency
+passenger fainted need doctor,medical,emergency
+pregnant woman needs help,medical,emergency
+child injured in train,medical,emergency
+need first aid immediately,medical,emergency
+passenger bleeding heavily,medical,emergency
+medical help urgently needed,medical,emergency
+elderly passenger critical,medical,emergency
+child injured in train,medical,emergency
+passenger having breathing problem,medical,emergency
+passenger fainted need doctor,medical,emergency
+passenger having breathing problem,medical,emergency
+passenger unconscious in train,medical,emergency
+passenger vomiting continuously,medical,emergency
+child injured in train,medical,emergency
+child injured in train,medical,emergency
+passenger having breathing problem,medical,emergency
+pregnant woman needs help,medical,emergency
+child injured in train,medical,emergency
+child injured in train,medical,emergency
+passenger unconscious in train,medical,emergency
+passenger fainted need doctor,medical,emergency
+passenger collapsed suddenly,medical,emergency
+pregnant woman needs help,medical,emergency
+high fever passenger,medical,emergency
+high fever passenger,medical,emergency
+old passenger feeling sick,medical,emergency
+child injured in train,medical,emergency
+elderly passenger critical,medical,emergency
+child injured in train,medical,emergency
+passenger collapsed suddenly,medical,emergency
+passenger having breathing problem,medical,emergency
+pregnant woman needs help,medical,emergency
+child injured in train,medical,emergency
+high fever passenger,medical,emergency
+medical emergency passenger injured,medical,emergency
+passenger having chest pain,medical,emergency
+pregnant woman needs help,medical,emergency
+passenger collapsed suddenly,medical,emergency
+passenger bleeding heavily,medical,emergency
+medical help urgently needed,medical,emergency
+need first aid immediately,medical,emergency
+passenger unconscious in train,medical,emergency
+passenger vomiting continuously,medical,emergency
+passenger fainted need doctor,medical,emergency
+passenger fainted need doctor,medical,emergency
+seat broken in coach,maintenance,medium
+seat cushion torn,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+seat cushion torn,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+coach ceiling damaged,maintenance,medium
+window glass broken,maintenance,medium
+berth support broken,maintenance,medium
+coach shaking too much,maintenance,medium
+seat cushion torn,maintenance,medium
+coach shaking too much,maintenance,medium
+seat handle broken,maintenance,medium
+seat cushion torn,maintenance,medium
+window glass broken,maintenance,medium
+train door not closing properly,maintenance,medium
+berth damaged in sleeper coach,maintenance,medium
+berth damaged in sleeper coach,maintenance,medium
+door handle missing,maintenance,medium
+ac leaking water,maintenance,medium
+window not closing properly,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+seat broken in coach,maintenance,medium
+door handle missing,maintenance,medium
+coach ceiling damaged,maintenance,medium
+coach shaking too much,maintenance,medium
+seat broken in coach,maintenance,medium
+ac not working in coach,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+window not closing properly,maintenance,medium
+door handle missing,maintenance,medium
+coach ceiling damaged,maintenance,medium
+door handle missing,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+berth support broken,maintenance,medium
+seat handle broken,maintenance,medium
+door handle missing,maintenance,medium
+seat broken in coach,maintenance,medium
+window glass broken,maintenance,medium
+coach shaking too much,maintenance,medium
+seat handle broken,maintenance,medium
+ac not working in coach,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+table broken in coach,maintenance,medium
+door handle missing,maintenance,medium
+berth support broken,maintenance,medium
+door handle missing,maintenance,medium
+door handle missing,maintenance,medium
+seat cushion torn,maintenance,medium
+table broken in coach,maintenance,medium
+coach ceiling damaged,maintenance,medium
+door handle missing,maintenance,medium
+coach ceiling damaged,maintenance,medium
+table broken in coach,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+door handle missing,maintenance,medium
+door handle missing,maintenance,medium
+berth damaged in sleeper coach,maintenance,medium
+window glass broken,maintenance,medium
+window not closing properly,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+coach ceiling damaged,maintenance,medium
+seat cushion torn,maintenance,medium
+window glass broken,maintenance,medium
+ladder broken in sleeper coach,maintenance,medium
+seat broken in coach,maintenance,medium
+harassment complaint in train,security,medium
+security help required,security,medium
+fight near train door,security,medium
+passenger threatening others,security,medium
+luggage missing from seat,security,medium
+mobile stolen in coach,security,medium
+suspicious activity in coach,security,medium
+security help required,security,medium
+drunk passenger creating trouble,security,medium
+unauthorized vendor in coach,security,medium
+passenger threatening others,security,medium
+suspicious activity in coach,security,medium
+suspicious bag found,security,medium
+harassment complaint in train,security,medium
+luggage missing from seat,security,medium
+suspicious activity in coach,security,medium
+passenger theft reported,security,medium
+security help required,security,medium
+unauthorized vendor in coach,security,medium
+unauthorized vendor in coach,security,medium
+suspicious bag found,security,medium
+passenger threatening others,security,medium
+suspicious activity in coach,security,medium
+unauthorized vendor in coach,security,medium
+passenger threatening others,security,medium
+fight between passengers,security,medium
+suspicious person in train,security,medium
+mobile stolen in coach,security,medium
+drunk passenger creating trouble,security,medium
+suspicious activity in coach,security,medium
+unauthorized vendor in coach,security,medium
+unauthorized vendor in coach,security,medium
+suspicious person in train,security,medium
+suspicious bag found,security,medium
+harassment complaint in train,security,medium
+suspicious person in train,security,medium
+someone trying to steal luggage,security,medium
+passenger misbehaving,security,medium
+unauthorized vendor in coach,security,medium
+mobile stolen in coach,security,medium
+suspicious activity in coach,security,medium
+someone trying to steal luggage,security,medium
+unauthorized vendor in coach,security,medium
+someone trying to steal luggage,security,medium
+unauthorized vendor in coach,security,medium
+suspicious activity in coach,security,medium
+passenger theft reported,security,medium
+suspicious person in train,security,medium
+passenger misbehaving,security,medium
+suspicious activity in coach,security,medium
+suspicious person in train,security,medium
+someone trying to steal luggage,security,medium
+fight near train door,security,medium
+passenger theft reported,security,medium
+fight near train door,security,medium
+passenger threatening others,security,medium
+suspicious person in train,security,medium
+suspicious bag found,security,medium
+suspicious bag found,security,medium
+luggage missing from seat,security,medium
+drunk passenger creating trouble,security,medium
+suspicious person in train,security,medium
+drunk passenger creating trouble,security,medium
+someone trying to steal luggage,security,medium
+mobile stolen in coach,security,medium
