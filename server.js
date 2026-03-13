@@ -8,12 +8,16 @@ connectDB();
 
 const app = express();
 
-app.use(cors({
- origin: [
-  "http://localhost:5173",
-  "https://railcare-ai-frontend.vercel.app"
- ]
-}));
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://railcare-ai-frontend.vercel.app",
+    ],
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true,
+  })
+);
 
 app.use(express.json());
 
