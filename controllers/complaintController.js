@@ -141,9 +141,13 @@ if (!validateTrain(trainNo)) {
       );
 
       if (imageFile) {
-
+            //sfsdafsf
+            console.log("IMAGE FILE:", imageFile.path);
+  console.log("Running Image AI...");
         const imageLabel = await getImageLabel(imageFile.path);
-
+         //xftfyu
+         console.log("IMAGE FILE:", imageFile.path);
+  console.log("Running Image AI...");
         if (imageLabel) {
           finalDescription = imageLabel;
         }
@@ -176,7 +180,9 @@ if (!validateTrain(trainNo)) {
     /* -------- TEXT ML CLASSIFICATION -------- */
 
     const prediction = await getPrediction(finalDescription);
-
+    //ftyufv
+    console.log("FINAL DESCRIPTION:", finalDescription);
+console.log("Running Text ML...");
     let department;
     let priority;
     let confidence = null;
