@@ -2,6 +2,8 @@ from transformers import CLIPProcessor, CLIPModel
 from PIL import Image
 import torch
 import sys
+import requests
+from io import BytesIO
 
 # load CLIP model
 model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
@@ -9,8 +11,12 @@ processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 
 image_path = sys.argv[1]
 
-# open image
-image = Image.open(image_path)
+# FIX: support URL images (Cloudinary)
+if image_path.startswith("http"):
+    response = requests.get(image_path)
+    image = Image.open(BytesIO(response.content)).convert("RGB")
+else:
+    image = Image.open(image_path).convert("RGB")
 
 labels = [
     "dirty train washroom",
@@ -39,8 +45,7 @@ best_index = probs.argmax().item()
 
 prediction = labels[best_index]
 
-# map department
-
+# department mapping
 if "washroom" in prediction or "floor" in prediction:
     department = "cleaning"
     priority = "normal"

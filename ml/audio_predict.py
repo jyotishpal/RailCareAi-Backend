@@ -2,21 +2,21 @@ import whisper
 import joblib
 import sys
 
-# Load whisper model
+# load whisper model
 audio_model = whisper.load_model("base")
 
-# Load ML models
+# load ML models
 vectorizer = joblib.load("ml/vectorizer.pkl")
 dept_model = joblib.load("ml/department_model.pkl")
 priority_model = joblib.load("ml/priority_model.pkl")
 
 audio_path = sys.argv[1]
 
-# Convert audio → text
+# convert audio to text
 result = audio_model.transcribe(audio_path)
 text = result["text"]
 
-# Convert text → vector
+# vectorize
 vec = vectorizer.transform([text])
 
 # ML prediction
